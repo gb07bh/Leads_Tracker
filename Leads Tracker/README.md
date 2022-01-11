@@ -1,16 +1,29 @@
-# title(){return this.options.title||this.options.name}
+# Leeds Tracker
 
-## Supporting Scrimba
+## A Chrome Extension that has been built using HTML CSS .Js
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+Steps to Use:
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+Download the file as zip Extract the files in a folder.
 
-	It would also mean the world to us if you share the courses.  
+Go to your Chrome browser and open extensions.
 
-Happy Coding!
+Turn on the developers mode and click on load unpacked.
+
+Choose the folder you have extracted the files .
+
+And you are good to go ...... ^_^
+
+-------------------About the extension-------------------
+
+You have been provided with 3 buttons
+
+Save input - To save the website you inserted in the text field. (on single click)
+
+Save tab - To save the link of the current tab (on single click)
+
+Delete All - Delete all saved links (on double click)
+
+Click on the links to open in new tab
+
+--------------------END--------------------
